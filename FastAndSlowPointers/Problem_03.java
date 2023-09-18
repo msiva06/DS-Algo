@@ -2,7 +2,7 @@ package FastAndSlowPointers;
 
 import TwoPointers.LinkedListNode;
 
-// Middle of LinkedList
+// Middle of the LinkedList
 public class Problem_03 {
     public static LinkedListNode middleNode(LinkedListNode head) {
     
