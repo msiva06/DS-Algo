@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 // Merge Intervals
-public class MergeIntervals {
+public class Problem_01 {
     public static List <Interval> mergeIntervals(List <Interval> intervals) {
     List<Interval> mergeIntervals = new ArrayList<Interval>();
     mergeIntervals.add(new Interval(intervals.get(0).getStart(),
