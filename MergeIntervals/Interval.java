@@ -1,6 +1,5 @@
 package MergeIntervals;
 
-import java.util.*;
 public class Interval{
     int start;
     int end;
