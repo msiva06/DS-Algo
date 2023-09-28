@@ -23,7 +23,6 @@ public class Problem_07 {
           }
           else{
             LinkedListNode curr = prev.next;
-            LinkedListNode nodeNext = node.next;
             LinkedListNode prevCurr = null;
             int count = 0;
             while(count < numNodes){
