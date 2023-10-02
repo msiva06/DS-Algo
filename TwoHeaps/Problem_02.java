@@ -4,7 +4,7 @@ import java.util.Collections;
 import java.util.List;
 import java.util.PriorityQueue;
 
-// Schedule Tasks on Minimum machines
+// Schedule Tasks on Minimum machines(Similar to Meeting Rooms II)
 public class Problem_02 {
     public static int tasks(List<List<Integer>> tasksList) {
 
