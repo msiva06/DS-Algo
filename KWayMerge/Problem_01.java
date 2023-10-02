@@ -1,4 +1,4 @@
-package K-WayMerge;
+package KWayMerge;
 
 // Merge Sorted Array
 public class Problem_01 {
