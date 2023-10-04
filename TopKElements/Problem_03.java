@@ -9,7 +9,6 @@ public class Problem_03 {
       for(int i = 0; i < k; i++){
          pq.add(nums[i]);
       }
-      int res = 0;
       int i = k;
       while(!pq.isEmpty() && i < nums.length){
          if(nums[i] > pq.peek()){
