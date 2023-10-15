@@ -34,7 +34,6 @@ public class Problem_04 {
                 }
                 present.add(arr[i]);
             }
-            int j = 0;
             int val = 0;
             res.stream().forEach(System.out::println);
             if(res.isEmpty())   
