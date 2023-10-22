@@ -35,5 +35,6 @@ public class Problem_07 {
         }
         Collections.reverse(res);
         return res.stream().mapToInt(Integer::intValue).toArray();
+    }
     
 }
