@@ -1,3 +1,4 @@
+package TreeDFS;
 // Flatten Binary Tree to LinkedList
 public class Problem_01 {
     public static TreeNode<Integer> flattenTree(TreeNode<Integer> root) {
