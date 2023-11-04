@@ -17,7 +17,6 @@ public class Problem_07 {
             for(char c : hashA.keySet()){
                 System.out.println(c + " " + hashA.get(c));
             }
-            System.out.print("*************");
             int start = end - b.length();
             if(end >= b.length()){
                 char aStart = a.charAt(start);
